@@ -24,17 +24,22 @@
 
 ## Scope 
 1. Source code 
+2. Documentation, Issues, CI/CD related to the source <- Peter
+   - Issues might also need to be included
 
 ## Allowed Distribution 
 Options
 1. Within Organization, but not Subsidaries or Vendors 
 2. Within Organization and Subsidaries, but not with Vendors
 3. Within Organization, Susidaries and Authorized Vendors 
+4. Potential "data seperation walls" in org <- Peter
+   - > A) think thought other seperatation/boundary concerns.
   
 ## Territory
-1. US territories
+1. US territories <- export restrictions for source code (e.g. encryption algorithms, cloud-data) <- Peter
 2. Europe
 3. International
+4. <territory>
   
 ## License Grant
 1. Grant to use, analyze and modify source code
@@ -49,8 +54,8 @@ Options
   
 ## Confidentiality
 1. No sensative configuration to be included in derivative work
-2. 
-
+2. e.g training sets (e.g data)
+3. Algorithm
 
 ## ReDistribution
 Options
@@ -65,8 +70,6 @@ Options
 ## Termination
 1. Right to revoke license on violation
 2. 30 day termination clause
-  
-
 
 ## Warrenty
 Options
