@@ -34,13 +34,24 @@ Options
 3. Within Organization, Susidaries and Authorized Vendors 
 4. Potential "data seperation walls" in org <- Peter
    - > A) think thought other seperatation/boundary concerns.
+   - > consider mergers and aquasitions - Schlomo
+       -> license grants central body power to grant problamatic cases
+       -> Need an body to authorize a body 
+       
+## Authorizing Body
+1. Can be a license/contract governing body
+2. can be a inner source committee
   
 ## Territory
 1. US territories <- export restrictions for source code (e.g. encryption algorithms, cloud-data) <- Peter
 2. Europe
 3. International
-4. <territory>
+5. <territory>
+GPL liability <- can have issues with enforcement in German law <- schlomo
   
+## type of use - DB/Schlomo
+1. only for business use of company (not for general use)
+   
 ## License Grant
 1. Grant to use, analyze and modify source code
   - Term
@@ -49,8 +60,8 @@ Options
 ## Attribution
 Options
 1. No Attribution (no retention of material)
-2. Attribution to Copyright holder (retention of material)
-3. Attribution to Project (retention of material)
+2. Attribution to Copyright holder (retention of material) 
+3. Attribution to Project (retention of material) <- clearly name the authors - Schlomo
   
 ## Confidentiality
 1. No sensative configuration to be included in derivative work
@@ -66,7 +77,10 @@ Options
 1. Retains Attribution 
 2. License of new Derivative work
 
-
+## Derivative works / Copyleft
+1. GPL type copyleft <- Copy left was important for DB and was the part convinced teams to inner source software - schlomo
+   - Attribution does not prevent improvement 
+                   
 ## Termination
 1. Right to revoke license on violation
 2. 30 day termination clause
