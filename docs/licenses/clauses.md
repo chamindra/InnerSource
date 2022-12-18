@@ -13,11 +13,11 @@
 - Contribution
 - Contributor
 - Licensee
-- <Subsidaries>
-- <Partners>
-- <Vendors>
-- <Authorized Vendors>
-- <Inner Source Authorizing body>
+- {Subsidaries}
+- {Partners}
+- {Vendors}
+- {Authorized Vendors}
+- {Inner Source Authorizing body}
 
 
 ## Copyright Holder
@@ -33,9 +33,9 @@
 
 ## Allowed Distribution 
 Clause Options:
-1. Within Organization, but not <Subsidaries> or <Vendors> 
-2. Within Organization and <Subsidaries>, but not with <Vendors>
-3. Within Organization, <Subsidaries> and <Authorized Vendors> 
+1. Within Organization, but not {Subsidaries} or {Vendors} 
+2. Within Organization and {Subsidaries}, but not with {Vendors}
+3. Within Organization, {Subsidaries} and {Authorized Vendors} 
 
 *Comments*
 - Potential "data seperation walls" in org <- Peter
