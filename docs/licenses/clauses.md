@@ -3,8 +3,8 @@
 ## Definitions
 
 - License
-- Licensor - <Organization Name>
-- Copyright Holder. - <Copyright holder Name>
+- Licensor - {Organization Name}
+- Copyright Holder. - {Copyright holder Name}
 - Original Work
 - Derivative Work
 - Distribution
