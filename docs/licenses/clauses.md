@@ -27,9 +27,15 @@
 1. Upon download of source code (click through license)
 
 ## Scope 
+Options
 1. Source code 
-2. Documentation, Issues, CI/CD related to the source <- Peter
-   - Issues might also need to be included
+2. DevOps code 
+3. Data
+5. Documentation
+6. SDLC artifacts
+
+*comments*
+1. Issues might also need to be included - schlomo
 
 ## Allowed Distribution 
 Clause Options:
@@ -45,10 +51,15 @@ Clause Options:
        -> Need an body to authorize a body 
        
 ## Inner Source Authorizing Body
-   
+Clause Options   
+1. OSPO
+2. Inner Source Committee
+3. {named entity}
+
 *Comments*
 1. Can be a license/contract governing body
 2. can be a inner source committee
+3. Can be a vriable in the generator - Chamindra
   
 ## Territory
 Clause Options (multiple options):
@@ -87,6 +98,10 @@ Types of sensative information
 Clause Options
 1. No redistribution
 2. Redsitribution allowed 
+3. Redistrubution allowed with central registration
+
+*Comments*
+1. No redistribution would essential mean it is not inner source so would remove this unless we expcitly say it is only back to the source
 
 ## Derivative works
 Clause Options:                                                     
@@ -97,6 +112,7 @@ Clause Options:
 *Comments*
 1. GPL type copyleft <- Copy left was important for DB and was the part convinced teams to inner source software - schlomo
    - Attribution does not prevent improvement 
+2. Weak copyleft might not be necessary in the context of inner source - Chamindra
                    
 ## Termination
 Clause Options:
@@ -110,3 +126,6 @@ Clause Options
 
 ## Liability and Indemnity
 1. No Liability
+
+*Comments*
+1. Warrenty, Liability and other terms might get invalidated by the law of the land (e.g germany) - Cornelius
