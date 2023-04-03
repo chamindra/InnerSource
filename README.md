@@ -36,20 +36,24 @@ ownership issues that can stall innovation.
 
 | Name           | Firm                | Role                     |
 | :------------- | :------------------ | :----------------------- |
-| Arthur Maltson | Capital One         | SIG Co-Lead              |
-| Elspeth Minty  | Morgan Stanley      | SIG Co-Lead              |
+| Brittany Istenes | Fannie Mae        | SIG Co-Lead              |
+| Miguel Capitao   | Deutsche Bank     | SIG Co-Lead              |
+| Chamindra de Silva  | Citibank       | SIG Co-Lead              |
 | Clare Dillon   | InnerSource Commons | SIG Secretary            |
 | Aaron Searle   | Morgan Stanley      | SIG Leadership Committee |
 | Anthony Vacca  | RBC                 | SIG Leadership Committee |
 | Danese Cooper  | InnerSource Commons | SIG Leadership Committee |
+| Arthur Maltson | Capital One         | SIG Co-Lead Emeritus     |
+| Elspeth Minty  | Morgan Stanley      | SIG Co-Lead Emeritus     |
 
 ## Quick start
 
 - [Sign up to the mailing list](#mailing-list) to stay up to date
 - Explore our [curated list of InnerSource resources](docs/resources.md)
-- Join an
-  [upcoming SIG meeting](https://github.com/finos/InnerSource/issues?q=is%3Aopen+is%3Aissue+label%3Ameeting)
-  (or read the minutes from previous ones)
+- Join an[upcoming SIG meeting](https://github.com/finos/InnerSource/issues?q=is%3Aopen+is%3Aissue+label%3Ameeting)
+  - Every 2nd Week of the Month on Monday 11am EST / 4pm UK
+- Optionally join the [InnerSource licensing working group](https://github.com/finos/InnerSource/issues/90) to contribute to Inner Source licensing for Financial Institutions
+  - Every 4th Week of the Month on Monday 11am EST / 4pm UK
 
 ## Mailing List
 
