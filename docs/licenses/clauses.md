@@ -147,7 +147,7 @@ Clause Options: [
 1. Warrenty, Liability and other terms might get invalidated by the law of the land (e.g germany) - Cornelius
 
 ## LLM Access
-1. Will LLM tools like ChatGPY be given access 
+1. Will LLM (Large Language Models) tools like ChatGPT be given access 
 Clause Option
 1. No Access 
 2. Internal Only 
